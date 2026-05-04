@@ -1,0 +1,170 @@
+[
+	{
+		"name": "豆包",
+		"avatar": "https://www.google.com/s2/favicons?domain=www.doubao.com&sz=128",
+		"url": "https://www.doubao.com/chat/",
+		"description": "字节的 AI 助手，中文语境、日常问答、写作润色、图片理解和多模态体验都很顺手，适合作为高频默认工具。",
+		"stars": 5,
+		"status": "assistant"
+	},
+	{
+		"name": "ChatGPT",
+		"avatar": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128",
+		"url": "https://chatgpt.com/",
+		"description": "通用能力很强的 AI 助手，适合写作、编程、资料整理、图片生成和复杂问题拆解。遇到不确定的问题时，先问它通常不会错。",
+		"stars": 5,
+		"status": "assistant"
+	},
+	{
+		"name": "Claude",
+		"avatar": "https://www.google.com/s2/favicons?domain=claude.ai&sz=128",
+		"url": "https://claude.ai/",
+		"description": "长文本阅读、结构化表达、代码解释和文档润色都很稳，适合处理需要耐心推理和大段材料的任务。",
+		"stars": 5,
+		"status": "assistant"
+	},
+	{
+		"name": "Gemini",
+		"avatar": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=128",
+		"url": "https://gemini.google.com/",
+		"description": "Google 的 AI 助手，适合搜索补充、Google 生态协作、多模态理解和英文资料处理。",
+		"stars": 4,
+		"status": "assistant"
+	},
+	{
+		"name": "Kimi",
+		"avatar": "https://www.google.com/s2/favicons?domain=www.kimi.com&sz=128",
+		"url": "https://www.kimi.com/",
+		"description": "中文长文档和资料阅读体验很好，适合丢论文、合同、长文章进去做总结、提纲和重点提取。",
+		"stars": 5,
+		"status": "assistant"
+	},
+	{
+		"name": "DeepSeek",
+		"avatar": "https://www.google.com/s2/favicons?domain=chat.deepseek.com&sz=128",
+		"url": "https://chat.deepseek.com/",
+		"description": "推理和代码问答很适合日常开发学习，回答风格直接，适合拿来对照思路、查漏补缺。",
+		"stars": 5,
+		"status": "assistant"
+	},
+	{
+		"name": "通义千问",
+		"avatar": "https://www.google.com/s2/favicons?domain=www.qianwen.com&sz=128",
+		"url": "https://www.qianwen.com/qianwen/",
+		"description": "阿里旗下 AI 助手，中文办公、资料处理、写作和多模态能力都比较全面，国内访问体验友好。",
+		"stars": 4,
+		"status": "assistant"
+	},
+	{
+		"name": "文心一言",
+		"avatar": "https://www.google.com/s2/favicons?domain=yiyan.baidu.com&sz=128",
+		"url": "https://yiyan.baidu.com/",
+		"description": "百度的 AI 助手，适合中文问答、写作、搜索相关任务和一些偏本土信息的处理。",
+		"stars": 4,
+		"status": "assistant"
+	},
+	{
+		"name": "Perplexity",
+		"avatar": "https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=128",
+		"url": "https://www.perplexity.ai/",
+		"description": "偏 AI 搜索和资料溯源，适合查资料、看多个来源的答案和快速了解一个新话题。",
+		"stars": 4,
+		"status": "assistant"
+	},
+	{
+		"name": "Poe",
+		"avatar": "https://www.google.com/s2/favicons?domain=poe.com&sz=128",
+		"url": "https://poe.com/",
+		"description": "聚合很多模型和机器人，适合快速切换不同 AI 风格，比较适合作为模型试用入口。",
+		"stars": 4,
+		"status": "assistant"
+	},
+	{
+		"name": "Midjourney",
+		"avatar": "https://www.google.com/s2/favicons?domain=www.midjourney.com&sz=128",
+		"url": "https://www.midjourney.com/",
+		"description": "AI 图像生成工具，画面风格和质感很强，适合做视觉灵感、概念图、封面和氛围图。",
+		"stars": 5,
+		"status": "creative"
+	},
+	{
+		"name": "Runway",
+		"avatar": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=128",
+		"url": "https://runwayml.com/",
+		"description": "AI 视频创作工具，适合图生视频、视频编辑、镜头实验和短片创意验证。",
+		"stars": 4,
+		"status": "creative"
+	},
+	{
+		"name": "Suno",
+		"avatar": "https://www.google.com/s2/favicons?domain=suno.com&sz=128",
+		"url": "https://suno.com/",
+		"description": "AI 音乐生成工具，输入歌词或主题就能生成歌曲，适合做 demo、灵感草稿和短视频配乐。",
+		"stars": 4,
+		"status": "creative"
+	},
+	{
+		"name": "Canva AI",
+		"avatar": "https://www.google.com/s2/favicons?domain=www.canva.com&sz=128",
+		"url": "https://www.canva.com/ai/",
+		"description": "把 AI 能力放进设计工作流里，适合做海报、演示文稿、社媒图和轻量视觉素材。",
+		"stars": 4,
+		"status": "creative"
+	},
+	{
+		"name": "DeepSeek API",
+		"avatar": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=128",
+		"url": "https://platform.deepseek.com/api_keys",
+		"description": "DeepSeek 开放平台的 API Key 管理入口，适合创建、查看和管理模型调用密钥。",
+		"stars": 5,
+		"status": "apikey"
+	},
+	{
+		"name": "SiliconCloud",
+		"avatar": "https://www.google.com/s2/favicons?domain=siliconflow.cn&sz=128",
+		"url": "https://cloud.siliconflow.cn/account/ak",
+		"description": "硅基流动 SiliconCloud 的 API 密钥页面，可用于管理模型服务调用凭证。",
+		"stars": 5,
+		"status": "apikey"
+	},
+	{
+		"name": "LongCat AI",
+		"avatar": "https://www.google.com/s2/favicons?domain=longcat.chat&sz=128",
+		"url": "https://longcat.chat/platform/",
+		"description": "LongCat AI 平台入口，方便进入控制台并使用相关开放能力。",
+		"stars": 4,
+		"status": "apikey"
+	},
+	{
+		"name": "智谱AI开放平台",
+		"avatar": "https://www.google.com/s2/favicons?domain=open.bigmodel.cn&sz=128",
+		"url": "https://open.bigmodel.cn/usercenter/apikeys",
+		"description": "智谱 BigModel API Key 管理页，适合管理 GLM 等模型接口调用密钥。",
+		"stars": 5,
+		"status": "apikey"
+	},
+	{
+		"name": "大模型服务平台百炼控制台",
+		"avatar": "https://www.google.com/s2/favicons?domain=aliyun.com&sz=128",
+		"url": "https://bailian.console.aliyun.com/",
+		"description": "阿里云百炼控制台入口，用于管理大模型应用、服务调用和相关凭证配置。",
+		"stars": 5,
+		"status": "apikey"
+	},
+	{
+		"name": "首页 · 魔搭社区",
+		"avatar": "https://www.google.com/s2/favicons?domain=modelscope.cn&sz=128",
+		"url": "https://www.modelscope.cn/",
+		"description": "魔搭社区首页，适合查找模型、数据集、空间应用和社区资源。",
+		"stars": 4,
+		"status": "apikey"
+	},
+	{
+		"name": "Skills 中心 · 魔搭社区",
+		"avatar": "https://www.google.com/s2/favicons?domain=modelscope.cn&sz=128",
+		"url": "https://www.modelscope.cn/skills",
+		"description": "魔搭社区 Skills 中心入口，方便浏览和管理可用的技能能力。",
+		"stars": 4,
+		"status": "apikey"
+	}
+]
